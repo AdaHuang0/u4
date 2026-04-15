@@ -11,7 +11,7 @@ public class SpellChecker {
 
     private ArrayList<String> dictionary;
 
-//sdfajadja
+
 
     public SpellChecker() {
 
